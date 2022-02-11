@@ -1,0 +1,3 @@
+/cps/home/kbreczin/Courses/Parallel/FinalProject/build/CMakeFiles/rebuild_cache.dir
+/cps/home/kbreczin/Courses/Parallel/FinalProject/build/CMakeFiles/nbody.dir
+/cps/home/kbreczin/Courses/Parallel/FinalProject/build/CMakeFiles/edit_cache.dir

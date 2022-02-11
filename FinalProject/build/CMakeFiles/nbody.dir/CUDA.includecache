@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cps/home/kbreczin/Courses/Parallel/FinalProject/src/nbody.cu
+stdio.h
+-
+stdlib.h
+-
+curand.h
+-
+curand_kernel.h
+-
+iostream
+-
+math.h
+-
+chrono
+-
+fstream
+-
+iostream
+-
+
