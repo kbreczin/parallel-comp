@@ -53,3 +53,7 @@ Run simulation.py
 This will run the simulation with saved positions from when all masses are 0.2
 
 
+Based off of Python version by Philip Mocz
+https://medium.com/swlh/create-your-own-n-body-simulation-with-python-f417234885e9
+
+
